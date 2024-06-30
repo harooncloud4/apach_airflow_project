@@ -6,7 +6,7 @@ pandas
 numpy
 matplotlib
 python-pptx
-sklearn
+scikit-learn
 pillow
 poetry
 selenium
