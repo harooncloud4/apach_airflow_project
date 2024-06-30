@@ -15,7 +15,7 @@ def mssql_connection():
     # Initialize the ConfigParser
     config = configparser.ConfigParser(interpolation=None)
     # Read the config
-    config.read('config.txt')
+    config.read('home/haroon/data_projects/config.txt')
     
     username = config.get('DEFAULT', 'mssql_username')
     password = config.get('DEFAULT', 'mssql_password')
