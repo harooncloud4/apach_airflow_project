@@ -9,7 +9,6 @@ python-pptx
 sklearn
 pillow
 poetry
-beautiful soup
 selenium
 fastapi
 fuzzywuzzy==0.18.0
